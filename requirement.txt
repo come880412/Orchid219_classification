@@ -1,0 +1,7 @@
+torch=1.10.2+
+opencv-python=4.5.5.62
+numpy=1.19.3
+timm=0.4.12
+transformers=4.12.5
+tensorboardX=2.4
+scikit-learn=0.24.2
