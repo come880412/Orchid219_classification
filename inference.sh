@@ -1,0 +1,3 @@
+python3 fine_tune_ML.py
+
+python3 private_swin_conv384to640_Logistic.py
