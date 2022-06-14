@@ -35,6 +35,19 @@ python3 preprocessing.py
 ## Download pretrained models
 - Please download the pretrained models from [here](https://drive.google.com/drive/folders/1vjMn-smi6Fj7JLQ--BHu3vbFe9HTOooG?usp=sharing), and put the models on the folder `./public_model`.
 
+## Folder structure
+``` 
+Orchid
+├── Orchid219_classification/ 
+├── dataset/ 
+  ├── Orchid219
+    ├── images
+    ├── private_and_public
+      ├── public images and private images
+    ├── submission_template.csv
+
+``` 
+
 ## Inference
 - After preparing the dataset and downloading the pretrained models, you could use the following command to generate the .csv file, which is the best public score on our submission.
 ``` bash
