@@ -36,7 +36,10 @@ python3 preprocessing.py
 - Please download the pretrained models from [here](https://drive.google.com/drive/folders/1vjMn-smi6Fj7JLQ--BHu3vbFe9HTOooG?usp=sharing), and put the models on the folder `./public_model`.
 
 ## Inference
-Todo
+- After preparing the dataset and downloading the pretrained models, you could use the following command to generate the .csv file, which is the best public score on our submission.
+``` bash
+bash inference.sh
+```
 
 ## Training
 - In this competition, we use three models, including swin_large, beit_large_384, convnext_xlarge [1]. You could check the training detail on the script "train.py", and train all models using the following command.
