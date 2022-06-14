@@ -1,3 +1,5 @@
+python preprocessing.py
+
 # convnext_xlarge
 python train.py --split_type random \
              --model convnext \
