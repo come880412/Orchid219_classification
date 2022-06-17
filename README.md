@@ -45,6 +45,7 @@ Orchid
     ├── private_and_public
       ├── public images and private images
     ├── submission_template.csv
+    ├── label.csv
 
 ``` 
 
