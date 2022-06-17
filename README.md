@@ -49,6 +49,9 @@ Orchid
 
 ``` 
 
+## Colab file
+If you would like to use colab to implement, please use the file "Orchid.ipynb".
+
 ## Inference
 - After preparing the dataset and downloading the pretrained models, you could use the following command to generate the .csv file, which is the best public score on our submission.
 ``` bash
