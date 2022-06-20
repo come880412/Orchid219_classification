@@ -1,5 +1,6 @@
 # Orchid219_classification
-Competition URL: https://tbrain.trendmicro.com.tw/Competitions/Details/20 (public 15th, private 14th)
+Competition URL: https://tbrain.trendmicro.com.tw/Competitions/Details/20 \
+Private Leaderboard: 14 / 743 (Top 2%)
 
 # Getting started
 - Clone this repo to your local
