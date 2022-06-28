@@ -18,7 +18,7 @@ CPU: AMR Ryzen 7 4800H with Radeon Graphics
 RAM: 32GB  
 GPU: NVIDIA GeForce RTX 1660Ti 6GB  
 
-- Training (TWCC):  
+- Training:  
 CPU: Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz
 RAM: 256GB
 GPU: NVIDIA GeForce RTX 3090 24GB * 2
